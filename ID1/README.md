@@ -1,38 +1,36 @@
+![Imgur](http://i.imgur.com/FKkubGG.jpg)
+
+### The Open Window School of Visual Communication  
+### School of Design Studies  
+
 ### BA DEGREE IN INTERACTIVE ARTS
 ### STUDY GUIDE
-### INTERACTIVE DEVELOPMENT 101
-### The Open Window School of Visual Communication
-### School of Design Studies
 
-Lecturer: Rouan van der Ende
-Email: rouan@openwindow.co.za
-Lecture Studio: UNKNOWN
+INTERACTIVE DEVELOPMENT 102
+===========================
 
-### INTERACTIVE DEVELOPMENT 101
 
-| Subject code |  |
-| --- | --- |
-| Status of subject | CORE (leading to MAJOR) |
-| Credits | 15 |
-| Contact hours | 64 |
-| Pre-requisites | 
-- --Basic computer literacy
-- --Basic math literacy
-- --Good command of the English language
- |
-| Studio | B3 |
-| Subject manager | Rouan van der Ende |
-| Lecturer | Rouan van der Ende |
-
-**Course overview**
 
 The Interactive Development 101 course is a series of lectures introducing students to programming and interactive electronics in academic and practical assignments. The focus is on building the student's ability to solve problems logically and in a detailed enough way for machines to execute.
 
-**Modular overview**
 
-**Module 1: Introduction to Programming**
 
-We start off teaching the student how to draw simple shapes to screen such as lines, circles and triangles. Then we progressively increase complexity developing a deep understanding of looped algorithms and data manipulation. The student will learn how to program complex ideas and generate beautiful patterns at the same time.
+Lecturer: Rouan van der Ende   
+Email: rouan@openwindow.co.za  
+Lecture Studio: UNKNOWN  
+Subject Code: 102  
+Status of subject: CORE (leading to MAJOR)   
+Credits: 15  
+Contact hours: 64 (4 modules * 8 weeks * 2 hours per week)  
+Pre-requisites: Basic computer literacy, Basic math literacy, Good command of the English language   
+Studio: B3  
+Subject manager: Morne Venter  
+
+
+
+**Module 1: Introduction to Programming**  
+
+We start off with how to draw simple shapes to screen such as lines, circles and triangles. Then we progressively increase complexity developing a deep understanding of looped algorithms and data manipulation. The student will learn how to program complex ideas and generate beautiful patterns at the same time.
 
 **Module 2: Interactive Programming**
 
@@ -46,64 +44,62 @@ We build simple electronic circuits and program microcontrollers to control robo
 
 We learn how to design and build interfaces to ease interaction and control of electronics and robotics.
 
-**Assessed components and mark structure**
-
-| **Assessed components** |  | **Modular marks structure** |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Theoretical | Practical | Module 1 | Module 2 | Mid-Year Evaluation | Module 3 | Module 4 | End of year evaluation |
-| **20%** | **80%** | **25%** | **25%** | **-** | **25%** | **25%** | **-** |
 
 
+### Assessed components and mark structure   
 
-**Relevance to industry**
+**Assessed components**  
+20% Theoretical  
+80% Practical  
+
+**Modular marks structure**  
+25% Module 1  
+25% Module 2  
+25% Module 3  
+25% Module 4  
+
+
+### Relevance to industry
 
 As mobile devices increase we are become a more digital society. Part of this progression is our understanding and command of all things digital. This means being able to not only craft digital data, but also use digital as a means to affect and measure the physical world. By learning how to combine electronics, art and code we unlock new means of solving problems.
 
-**Relation to other subjects**
+
+### Relation to other subjects
 
 We have a strong focus on the technical aspects in this course that will have to be supported by more design or philosophical based classes to be of maximal use. As with all things, the more you know about everything, the better you understand how something fits into the whole.
 
-**Relation to previous and following years**
+
+### Relation to previous and following years
 
 The previous year we introduced much of this content as two electives in the Film Arts department as an augmentation of the gamedevelopment, allowing students to build their own game controllers and games.
 
 
+Module 1: Introduction to Programming
+=====================================
 
 
+### Module Overview
 
-**Module 1: Introduction to Programming**
+We start off with how to draw simple shapes to screen such as lines, circles and triangles. Then we progressively increase complexity developing a deep understanding of looped algorithms and data manipulation. The student will learn how to program complex ideas and generate beautiful patterns at the same time.
 
+### Module Outcomes
+On completion of the module students should be able to demonstrate an understanding of programming conventions and design patterns in code. The learner should also understand fractal and procedural algorithms. The learner should understand how programming fits into society and utilizes the elements of complex systems. Show a working knowledge of javascript, html, css.
 
+### Assessment Activities
 
-**1.1    Module Overview**
-
-We start off teaching the learner how to draw simple shapes to screen such as lines, circles and triangles. Then we progressively increase complexity developing a deep understanding of looped algorithms and data manipulation. The student will learn how to program complex ideas and generate beautiful patterns at the same time.
-
-**1.2    Module outcomes**
-
-_On completion of the module students should be able to:_
-
-- Demonstrate an understanding of programming conventions and design patterns in code. An understanding of fractal and procedural algorithms.
-- Understand how programming fits into society and the elements of complex systems.
-- Show a working knowledge of javascript, html, css.
-
-**1.3    Assessment activities**
-
-**1.3.1    Theoretical assignments**
+#### Theoretical assignments - 20%
 
 The learners study the history of computing as well as look at various futurists work. They then need to convey their point of view on how the world can be improved by technology. This can take the form of an illustration or written piece.
 
-**1.3.2    Practical assignments**
+#### Practical assignments - 80%
 
 Learners create a programmatic looping digital artwork for web distribution. Heavy use of fractals and l-system like algorithms should be used and direct image use avoided. They should show an understanding of random number generation, utilizing 3D distance and angles, nearest neighbours, and visualising hierarchical data structures.
 
-**1.4    Module content**
+Module 1 content
+----------------
 
 The following content will be covered during this module:
 
-| **Component** | **Sub-components** |
-| --- | --- |
-| The Elements of Programming | 
 - Elements of Programming
   - Variable
   - Array
@@ -113,15 +109,13 @@ The following content will be covered during this module:
   - Events
 
 - Elements of Graphical Programming
-  - Pixel, Line, Ellipse etc.
+  - Bit, Pixel, Line, Ellipse
   - Colour
   - Frame rate
   - Location
   - Relation
   - Events
 
- |
-| The role of Programming in the world | 
 - Role of programming
   - Calculation
   - Organisation
@@ -130,23 +124,22 @@ The following content will be covered during this module:
   - Automation
   - Transformation
 
- |
+Module 1 schedule
+-----------------
 
+**Week 1** 
 
+- Module brief.  
+- Introduction to programming and computer theory.  
+- HTML  
 
-**1.5    Module programme**
+**Week 2** 
 
-| **Week** | **Themes / Topics** |
-| --- | --- |
-| 1 | 
-- Module brief.
-- Introduction to programming and computer theory.
-- HTML
- |
-| 2 | 
-- CSS
- |
-| 3 | 
+- CSS  
+- id, class  
+
+**Week 3** 
+
 - JAVASCRIPT
 - Conditionals, if else. 
 - Variables, Integers, Floating point, Strings
@@ -154,41 +147,40 @@ The following content will be covered during this module:
 - For, while.
 - Line, Rect, Triangle, Ellipse.
 - Colour, Fill, Stroke.
- |
-| 4 | 
+ 
+**Week 4** 
+
 - Objects. 
 - JavaScript fundamentals
 - Distance and Random.
 - Emergent behaviour.
- |
-| 5 | 
+
+**Week 5** 
+
 - Formats and keeping time. 
 - Scale and relativity 
 - Conway game of life 
 - Popular coding patterns
- |
-| 6 | 
+
+**Week 6** 
+
 - Revision session on programmed artworks.
- |
-| 7 | 
+
+**Week 7** 
+
 - Final class critique on programmed artworks.
- |
-| 8 | 
-- Learner oral theory presentations.
-- Learner practical evaluations.
- |
+ 
+**Week 8** 
 
+- Learner presentations.
 
+Module 1 Learning resources
+---------------------------
 
-**1.7    Learning resources**
+Douglas Crockford.Crockford on JavaScript - Volume 1: The Early Years. 
+[https://www.youtube.com/watch?v=JxAXlJEmNMg](https://www.youtube.com/watch?v=JxAXlJEmNMg)
 
-**1.7.1    Prescribed material**
-
-# Douglas Crockford.Crockford on JavaScript - Volume 1: The Early Years.
-
-# [https://www.youtube.com/watch?v=JxAXlJEmNMg](https://www.youtube.com/watch?v=JxAXlJEmNMg)
-
-**Kevin Kelly.** The Technium. [https://www.youtube.com/watch?v=j0fkrJgmQxs](https://www.youtube.com/watch?v=j0fkrJgmQxs)
+**Kevin Kelly.** The Technium. [http://youtu.be/JxAXlJEmNMg?t=1s](https://www.youtube.com/watch?v=j0fkrJgmQxs)
 
 
 
