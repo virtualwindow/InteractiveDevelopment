@@ -39,8 +39,6 @@ We build simple electronic circuits and program microcontrollers to control robo
 
 We learn how to design and build interfaces to ease interaction and control of electronics and robotics.
 
-
-
 ### Assessed components and mark structure   
 
 **Assessed components**  
@@ -71,7 +69,6 @@ The previous year we introduced much of this content as two electives in the Fil
 
 Module 1: Introduction to Programming
 =====================================
-
 
 ### Overview
 
@@ -316,6 +313,7 @@ Module 3 Schedule
 -----------------
 
 **Week 1** 
+
 - Module brief.
 - Introduction to arduino and electricity
 - Blinking LEDs
@@ -323,25 +321,32 @@ Module 3 Schedule
 - Drivers and software 
 
 **Week 2** 
+
 - Light sensors
 - Conditionals. if/else
 
 **Week 3** 
+
 - buttons, potentiometers
 
 **Week 4** 
+
 - Stepper motors, temperature sensors.
 
 **Week 5** 
+
 - IMU (gyro/accel/magnetometer)
 
 **Week 6** 
+
 - Revision session on programmed interactive games/programmes/artworks.
 
 **Week 7** 
+
 - Final class critique on programmed interactive games/programmes/artworks.
 
 **Week 8** 
+
 - Learner oral theory presentations.
 - Learner practical evaluations.
 
@@ -381,12 +386,14 @@ Module 4 Content
 
 The following content will be covered during this module:
 
-__Practical__
+**Practical**  
+
 - JSON communication between circuits and computers
 - Device API design
 - HTML socket.io interface binding
  
-__Theory__
+**Theory**  
+
 - Publishing and documenting online
 - Github
 - Markdown syntax
@@ -395,41 +402,48 @@ __Theory__
 Module 4 Schedule
 -----------------
 
-**Week 1** 
+**Week 1**
+
 - Module brief
 - Introduction to module
 
 **Week 2** 
+
 - aJSON
 - APIs for devices 
 - Github and markdown
 
 **Week 3** 
+
 - jquery, socket.io and nodejs
 
 **Week 4** 
+
 - Interface design study
 - Implementation of sensor feed graph
 
 **Week 5** 
+
 - IMU (inertial measurement – gyro/accel/magnetometer).
 - Force feedback. Joysticks/steeringwheels. Arcade.
 - Oculus rift. VR
 
 **Week 6** 
+
 - Support on learner projects.
 
 **Week 7** 
+
 - Class critique on learner projects.
 
 **Week 8** 
+
 - Learner Final Presentations.
-
-
 
 
 Module 4 Learning Resources
 ---------------------------
+
 https://github.com/interactive-matter/aJson
 
 
