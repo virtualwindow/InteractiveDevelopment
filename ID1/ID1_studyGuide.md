@@ -86,14 +86,14 @@ On completion of the module students should be able to
 ### Assessed components and mark structure   
 
 **Assessed components**  
-20% Theoretical
-80% Practical
+20% Theoretical   
+80% Practical  
 
 **Modular marks structure**
-25% Module 1
-25% Module 2
-25% Module 3
-25% Module 4
+25% Module 1  
+25% Module 2  
+25% Module 3  
+25% Module 4  
 
 ### Relevance to industry
 
@@ -210,10 +210,10 @@ Module 1 Schedule
 Module 1 Learning resources
 ---------------------------
 
-[**Douglas Crockford** - Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg)
-http://www.w3schools.com/html/
-http://www.w3schools.com/css/
-http://www.w3schools.com/js/
+[**Douglas Crockford** - Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg)  
+http://www.w3schools.com/html/  
+http://www.w3schools.com/css/  
+http://www.w3schools.com/js/  
 
 
 Module 2: Introduction to Interactive Programming  
@@ -297,13 +297,13 @@ Module 2 Schedule
 Module 2 Learning Resources
 ---------------------------
 
-[**Kevin Kelly** - The Technium](https://www.youtube.com/watch?v=j0fkrJgmQxs)
-http://jquery.com/
-http://threejs.org/
-http://www.mongodb.org/
-http://socket.io/
-http://nodejs.org/
-http://expressjs.com/
+[**Kevin Kelly** - The Technium](https://www.youtube.com/watch?v=j0fkrJgmQxs)  
+http://jquery.com/  
+http://threejs.org/  
+http://www.mongodb.org/  
+http://socket.io/  
+http://nodejs.org/  
+http://expressjs.com/  
 
 Module 3: Interactive Matter
 ============================
@@ -394,8 +394,8 @@ Module 3 Schedule
 Module 3 Learning resources
 ---------------------------
 
-http://arduino.cc/
-https://www.robotics.org.za/
+http://arduino.cc/  
+https://www.robotics.org.za/  
 
 
 Module 4: Remote Interfaces for Interactive Matter
@@ -481,7 +481,7 @@ Module 4 Schedule
 Module 4 Learning Resources
 ---------------------------
 
-https://github.com/interactive-matter/aJson
-http://socket.io/
-http://nodejs.org/
+https://github.com/interactive-matter/aJson  
+http://socket.io/  
+http://nodejs.org/  
 
