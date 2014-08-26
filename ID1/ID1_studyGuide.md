@@ -1,7 +1,16 @@
 ![Imgur](http://i.imgur.com/FKkubGG.jpg)
+ 
 
-### The Open Window School of Visual Communication  
-### School of Design Studies  
+Subject Code: ID_102
+Status of subject: Core (Leading to MAJOR)
+Credits: 15
+Contact hours: 64 (4 modules * 8 weeks * 2 hours per week)
+Pre-requisites: Basic computer literacy, Basic math literacy, Good command of the English language
+Studio: B3
+Subject manager: Morne Venter
+Lecturer: Rouan van der Ende
+Email: rouan@openwindow.co.za
+Lecture Studio: UNKNOWN
 
 ### BA DEGREE IN INTERACTIVE ARTS
 ### STUDY GUIDE
@@ -9,35 +18,70 @@
 INTERACTIVE DEVELOPMENT 102
 ===========================
 
-The Interactive Development 101 course is a series of lectures introducing students to programming and interactive electronics in academic and practical assignments. The focus is on building the student's ability to solve problems logically and in a detailed enough way for machines to execute.
+### Course overview  
 
+The Interactive Development 101 course is a series of lectures introducing students to programming and interactive electronics in academic and practical assignments. The focus is on building the student's ability to solve problems logically and in a detailed enough way for machines to execute. 
 
-Lecturer: Rouan van der Ende
-Email: rouan@openwindow.co.za
-Lecture Studio: UNKNOWN
-Subject Code: 102
-Status of subject: CORE (leading to MAJOR)
-Credits: 15
-Contact hours: 64 (4 modules * 8 weeks * 2 hours per week)
-Pre-requisites: Basic computer literacy, Basic math literacy, Good command of the English language
-Studio: B3
-Subject manager: Morne Venter
-
-**Module 1: Introduction to Programming**  
-
-We start off with how to draw simple shapes to screen such as lines, circles and triangles. Then we progressively increase complexity developing a deep understanding of looped algorithms and data manipulation. The student will learn how to program complex ideas and generate beautiful patterns at the same time.
-
-**Module 2: Interactive Programming**
+We start off with how to draw simple shapes to screen such as lines, circles and triangles. Then we progressively increase complexity developing a deep understanding of looped algorithms and data manipulation. The student will learn how to program complex ideas and generate beautiful patterns at the same time. 
 
 We progress from the first module into interactivity keyboard, mouse and touch. We'll build a simple game or interactive application. We'll learn about storing and retrieving data from storage.
 
-**Module 3: Introduction to Electronics**
-
 We build simple electronic circuits and program microcontrollers to control robots that can sense and react to the environment.
 
-**Module 4: Networked Interface Design for Interactive Robotics**
-
 We learn how to design and build interfaces to ease interaction and control of electronics and robotics.
+
+### Course Outcomes  
+
+By the end of the course students should be able to:
+
+On completion of the module students should be able to 
+- Demonstrate an understanding of programming conventions and design patterns in code. 
+- Understand fractal and procedural algorithms. 
+- Understand how programming fits into society and utilizes the elements of complex systems. 
+- Show a working knowledge of javascript, html, css.
+- Demonstrate handling input data to drive actions inside a program.
+- Show a working knowledge of javascript events in the DOM and be able to use mongodb.
+- Theorise about human machine interface design and future ways of interaction.
+- Demonstrate understanding of microcontrollers and building simple circuits for interaction.
+- Have ideas for implementing interaction design to practical applications in various industries.
+- Combine interactive design for screen with communication to electronic circuits.
+- Plan and implement a device with interface combination.
+
+### Components of course  
+
+**Theoretical components:**  
+
+- Study the history of computing as well as look at various futurists work. 
+- How the world can be improved by technology. 
+- This can take the form of an illustration or written piece.
+- The learners study human machine interaction design by looking at various machines or devices we use now and problems or inefficiencies currently faced. 
+- Explain in a written piece or illustrated artwork what could be improved or made to improve the interaction between humans and computers.
+- Setting up drivers to program microcontroller
+- Software to program microcontroller.
+- Components and breadboards
+- Example code and circuits
+- Making the circuit do what you want
+- Publishing and documenting project online
+- Github version control
+- Markdown syntax
+
+**Practical components:**  
+
+- Learners create a programmatic looping digital artwork for web distribution. Heavy use of fractals and l-system like algorithms should be used and direct image use avoided. 
+- They should show an understanding of random number generation, utilizing 3D distance and angles, nearest neighbours, and visualising hierarchical data structures.
+- Learners plan, design and implement an interactive web application or game that utilizes keyboard, mouse, touch or other inputs. The system must make use of a method to retain information through a power cut.
+- Electricity and the growth of civilization, looking at the future.
+- Learners will build a device that works together with a remote interface of their own design. This needs to be presented and demonstrated in week 8. The build log will form the theoretical part of this module and has to be online.
+- JSON communication between circuits and computers
+- Device API design
+- HTML socket.io interface binding
+
+### Modular overview  
+
+- Module 1: Introduction to Programming**  
+- Module 2: Interactive Programming**
+- Module 3: Introduction to Electronics**
+- Module 4: Networked Interface Design for Interactive Robotics**
 
 ### Assessed components and mark structure   
 
@@ -51,21 +95,17 @@ We learn how to design and build interfaces to ease interaction and control of e
 25% Module 3
 25% Module 4
 
-
 ### Relevance to industry
 
 As mobile devices increase we are become a more digital society. Part of this progression is our understanding and command of all things digital. This means being able to not only craft digital data, but also use digital as a means to affect and measure the physical world. By learning how to combine electronics, art and code we unlock new means of solving problems.
-
 
 ### Relation to other subjects
 
 We have a strong focus on the technical aspects in this course that will have to be supported by more design or philosophical based classes to be of maximal use. As with all things, the more you know about everything, the better you understand how something fits into the whole.
 
-
 ### Relation to previous and following years
 
 The previous year we introduced much of this content as two electives in the Film Arts department as an augmentation of the gamedevelopment, allowing students to build their own game controllers and games.
-
 
 Module 1: Introduction to Programming
 =====================================
@@ -75,6 +115,7 @@ Module 1: Introduction to Programming
 We start off with how to draw simple shapes to screen such as lines, circles and triangles. Then we progressively increase complexity developing a deep understanding of looped algorithms and data manipulation. The student will learn how to program complex ideas and generate beautiful patterns at the same time.
 
 ### Outcomes
+
 On completion of the module students should be able to demonstrate an understanding of programming conventions and design patterns in code. The learner should also understand fractal and procedural algorithms. The learner should understand how programming fits into society and utilizes the elements of complex systems. Show a working knowledge of javascript, html, css.
 
 ### Assessment Activities
@@ -386,18 +427,14 @@ Module 4 Content
 
 The following content will be covered during this module:
 
-**Practical**  
 
-- JSON communication between circuits and computers
-- Device API design
-- HTML socket.io interface binding
- 
-**Theory**  
 
 - Publishing and documenting online
 - Github
 - Markdown syntax
-
+- JSON communication between circuits and computers
+- Device API design
+- HTML socket.io interface binding
 
 Module 4 Schedule
 -----------------
@@ -445,5 +482,6 @@ Module 4 Learning Resources
 ---------------------------
 
 https://github.com/interactive-matter/aJson
-
+http://socket.io/
+http://nodejs.org/
 
