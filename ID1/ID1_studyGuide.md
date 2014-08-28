@@ -1,22 +1,24 @@
-![Imgur](http://i.imgur.com/FKkubGG.jpg)
+![Alt](http://placehold.it/1x1 "I'm an image")
+![Imgur](http://i.imgur.com/FKkubGG.jpg "I'm an image")
  
-
-Subject Code: ID_102
-Status of subject: Core (Leading to MAJOR)
-Credits: 15
-Contact hours: 64 (4 modules * 8 weeks * 2 hours per week)
-Pre-requisites: Basic computer literacy, Basic math literacy, Good command of the English language
-Studio: B3
-Subject manager: Morne Venter
-Lecturer: Rouan van der Ende
-Email: rouan@openwindow.co.za
-Lecture Studio: UNKNOWN
+INTERACTIVE DEVELOPMENT 102
+===========================
 
 ### BA DEGREE IN INTERACTIVE ARTS
 ### STUDY GUIDE
 
-INTERACTIVE DEVELOPMENT 102
-===========================
+Subject Code: ID_102   
+Status of subject: Core (Leading to MAJOR)   
+Credits: 15   
+Contact hours: 64 (4 modules * 8 weeks * 2 hours per week)   
+Pre-requisites: Basic computer literacy, Basic math literacy, Good command of the English language   
+Studio: B3   
+   
+Subject manager: Morne Venter   
+Email: morne@openwindow.co.za   
+   
+Lecturer: Rouan van der Ende   
+Email: rouan@openwindow.co.za 
 
 ### Course overview  
 
@@ -78,10 +80,10 @@ On completion of the module students should be able to
 
 ### Modular overview  
 
-- Module 1: Introduction to Programming**  
-- Module 2: Interactive Programming**
-- Module 3: Introduction to Electronics**
-- Module 4: Networked Interface Design for Interactive Robotics**
+- Module 1: Introduction to Programming*   
+- Module 2: Interactive Programming  
+- Module 3: Introduction to Electronics  
+- Module 4: Networked Interface Design for Interactive Robotics  
 
 ### Assessed components and mark structure   
 
