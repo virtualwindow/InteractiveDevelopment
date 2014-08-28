@@ -85,11 +85,11 @@ On completion of the module students should be able to
 
 ### Assessed components and mark structure   
 
-**Assessed components**  
+**Assessed components**   
 20% Theoretical   
 80% Practical  
 
-**Modular marks structure**
+**Modular marks structure**   
 25% Module 1  
 25% Module 2  
 25% Module 3  
